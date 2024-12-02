@@ -14,6 +14,10 @@
 6.Identify at which time of the day people ordering more pizzas.(morning/evening/afternoon/night)
 7. Identify which pizza category is hot-selling</pre>
 
+<h2>🚀 Demo</h2>
+
+[https://aquamarine-evanne-52.tiiny.site](https://aquamarine-evanne-52.tiiny.site)
+
 <h2>Project Screenshots:</h2>
 
 <img src="https://i.postimg.cc/Vkh4x0wj/Screenshot-2024-11-28-110917.png" alt="project-screenshot" width="960" height="640/">
