@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Pizza Hut Sales</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Asjad0503/pizza_sales/image?forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/Asjad0503/Pizza Hut_sales/image?forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
 <p id="description">The Pizza Sales Analysis Project is a data-driven initiative aimed at understanding customer preferences sales patterns and business performance for a pizza business. By leveraging historical sales data the project provides insights that help in optimizing operations enhancing customer satisfaction and driving revenue growth.</p>
 
