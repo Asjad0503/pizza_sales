@@ -4,7 +4,7 @@
 
 <p id="description">The Pizza Sales Analysis Project is a data-driven initiative aimed at understanding customer preferences sales patterns and business performance for a pizza business. By leveraging historical sales data the project provides insights that help in optimizing operations enhancing customer satisfaction and driving revenue growth.</p>
 
-<h3> Objeective </h3>
+<h3> Objective </h3>
 <pre>
  1.Identify the time at which we are getting high orders and at which time we get low orders
  2. Identify which day of week we are getting the most orders
